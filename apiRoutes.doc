@@ -1,0 +1,14 @@
+
+//getting all users
+"http://localhost:7890/users"
+
+
+//getting profile
+"http://localhost:7890/users/:id"
+
+//to register
+"http://localhost:7890/register"
+
+//to siginin
+"http://localhost:7890/signin"
+
